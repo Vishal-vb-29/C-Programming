@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<String.h>
+#include<string.h>
 int main(){
 char a[22];
 printf("Enter a 1st string :");
